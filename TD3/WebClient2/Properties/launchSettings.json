@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WebClient2": {
+      "commandName": "Project",
+      "commandLineArgs": "rouen"
+    }
+  }
+}
